@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <h1>Mijo Sepovic</h1>
+        <h2>Vjezba 2</h2>
+        <p>Odlomak1</p>
+        <p>Odlomak2</p>
+            <figure>
+                <img src="https://istyle.hr/iphone-15-128gb-blue.html" alt="slika" title="slika">
+                    <figcaption>Iphone 15</figcaption>
+                <img src="https://istyle.hr/iphone-16-128gb-white.html" alt="slika" title="slika">
+                    <figcaption>Iphone 16</figcaption>
+            </figure>
+    </body>
+</html>
