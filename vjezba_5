@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <table border="1">
+            <thead>
+                <tr>
+                    <th colspan="2">Samsung</th>
+                    <th colspan="2">Apple</th>
+                </tr>
+            </thead>
+
+            <tbody>
+
+                <tr>
+                    <td><img src="https://aloalo.hr/samsung-s23-fe-5g-8-128-grey-proizvod-23117/" alt="slika"></td>
+                    <td>Galaxy S23</td>
+
+                    <td><img src="https://istyle.hr/iphone-15-128gb-blue.html" alt="slika"></td>
+                    <td>Iphone 15</td>
+                </tr>
+
+                <tr>
+                    <td><img src="https://www.nabava.net/mobiteli/samsung-galaxy-s20-cijena-128gb-62-102458371" alt="slika"></td>
+                    <td>Samsung S20</td>
+
+                    <td><img src="https://istyle.hr/iphone-16-128gb-ultramarine.html" alt="slika"></td>
+                    <td>Iphone 16</td>
+                </tr>
+
+            </tbody>
+        </table>
+    </body>
+</html>
