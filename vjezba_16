@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            body, html {
+                font-family: Verdana, Geneva, Tahoma, sans-serif;
+                margin: auto;
+                width: 75;
+                background-color: black;
+            }
+
+            h1, p {
+                margin: 0; padding: 0;
+                margin-bottom: 10px;
+            }
+
+            figure {
+                width: 50%;
+                border: 0px solid white;
+                float: left;
+                margin: 0;
+                margin-right: 4%;
+            }
+
+            figure img {
+                width: 100%;
+            }
+
+            h1, p {
+                color: white;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Seamaster Automatic Chronograph Men's Watch</h1>
+        <figure>
+            <img src="omega.jpg">
+        </figure>
+        <p>
+            Stainless steel case with a stainless steel bracelet.
+            Uni-directional rotating silver-tone stainless steel bezel with a blackceramic top ring.
+        </p>
+        <video width="100%" controls style="margin-top: 10px;">
+            <source src="Omega-Seamaster.mp4" type="video/mp4">
+        </video>
+    </body>
+</html>
