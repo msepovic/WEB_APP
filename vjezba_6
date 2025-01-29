@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Primjer Listi</title>
+</head>
+<body>
+
+    <!-- Uređena lista -->
+    <h2>Uređena lista (Ordered List)</h2>
+    <ol>
+        <li>Samsun</li>
+        <li>Apple</li>
+        <li>Huawei</li>
+        <li>Motorola</li>
+    </ol>
+
+    <!-- Neuređena lista -->
+    <h2>Neuređena lista (Unordered List)</h2>
+    <ul>
+        <li>Samsung</li>
+        <li>Apple</li>
+        <li>Huawei</li>
+        <li>Panasonic</li>
+        <li>Motorola</li>
+    </ul>
+
+    <!-- Definicijska lista -->
+    <h2>Definicijska lista (Definition List)</h2>
+    <dl>
+        <dt>Samsung</dt>
+        <dd>Galaxy S23 Ultra</dd>
+        <dd>Galaxy S23+</dd>
+        <dd>Galaxy S23</dd>
+        <dd>Galaxy Z Fold 5</dd>
+        <dd>Galaxy Z Flip 5</dd>
+    </dl>
+
+    <dl>
+        <dt>Apple</dt>
+        <dd>iPhone 12</dd>
+        <dd>iPhone 13</dd>
+        <dd>iPhone 14 Plus</dd>
+        <dd>iPhone 15 Pro</dd>
+    </dl>
+
+    <!-- Ugniježđena lista -->
+    <h2>Ugniježđena lista (Nested List)</h2>
+    <ul>
+        <li>Voće
+            <ul>
+                <li>Jabuka</li>
+                <li>Banana</li>
+                <li>Jagoda</li>
+            </ul>
+        </li>
+        <li>Povrće
+            <ul>
+                <li>Mrkva</li>
+                <li>Krumpir</li>
+                <li>Rajčica</li>
+            </ul>
+        </li>
+    </ul>
+
+</body>
+</html>
