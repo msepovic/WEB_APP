@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zadatak s odlomcima</title>
+</head>
+<body>
+
+    <div>
+        <p>Ovo je prvi odlomak unutar <b style="color:red;">div</b> elementa.</p>
+        <p>Ovo je drugi odlomak unutar <b style="color:red;">div</b> elementa.</p>
+    </div>
+
+    <p>Ovo je prvi odlomak izvan <b style="color:red;">div</b> elementa.</p>
+    <p>Ovo je drugi odlomak izvan <b style="color:red;">div</b> elementa.</p>
+
+</body>
+</html>
