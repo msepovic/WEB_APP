@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stranica sa linkom</title>
+    <style>
+        a {
+            color: green;
+            text-decoration: none;
+            font-size: 18px;
+        }
+        a:hover {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <h1>Dobrodošli na moju stranicu</h1>
+    <p>Kliknite na <a href="#">ovaj link</a> za više informacija.</p>
+</body>
+</html>
